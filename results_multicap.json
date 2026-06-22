@@ -1,0 +1,202 @@
+[
+  {
+    "partition": "random",
+    "seed": 0,
+    "src": "MNIST",
+    "none": {
+      "A": 0.9744,
+      "B": 0.7005,
+      "retain": 0.8467
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.4036,
+      "retain": 0.8719
+    },
+    "pruneB": {
+      "A": 0.972,
+      "B": 0.0,
+      "retain": 0.8677
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.877
+    }
+  },
+  {
+    "partition": "random",
+    "seed": 1,
+    "src": "MNIST",
+    "none": {
+      "A": 0.9612,
+      "B": 0.9078,
+      "retain": 0.8094
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.9173,
+      "retain": 0.6738
+    },
+    "pruneB": {
+      "A": 0.9029,
+      "B": 0.0,
+      "retain": 0.891
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.9047
+    }
+  },
+  {
+    "partition": "random",
+    "seed": 2,
+    "src": "MNIST",
+    "none": {
+      "A": 0.9772,
+      "B": 0.805,
+      "retain": 0.858
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.5925,
+      "retain": 0.8632
+    },
+    "pruneB": {
+      "A": 0.9749,
+      "B": 0.0,
+      "retain": 0.8537
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.8657
+    }
+  },
+  {
+    "partition": "random",
+    "seed": 3,
+    "src": "MNIST",
+    "none": {
+      "A": 0.9825,
+      "B": 0.84,
+      "retain": 0.8467
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.6894,
+      "retain": 0.8816
+    },
+    "pruneB": {
+      "A": 0.9751,
+      "B": 0.0,
+      "retain": 0.8475
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.9123
+    }
+  },
+  {
+    "partition": "structural",
+    "seed": 0,
+    "src": "MNIST",
+    "none": {
+      "A": 0.986,
+      "B": 0.5365,
+      "retain": 0.6512
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.6432,
+      "retain": 0.8214
+    },
+    "pruneB": {
+      "A": 0.986,
+      "B": 0.0,
+      "retain": 0.8172
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.9006
+    }
+  },
+  {
+    "partition": "structural",
+    "seed": 1,
+    "src": "MNIST",
+    "none": {
+      "A": 0.966,
+      "B": 0.539,
+      "retain": 0.5167
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.8487,
+      "retain": 0.5888
+    },
+    "pruneB": {
+      "A": 0.9709,
+      "B": 0.0,
+      "retain": 0.8103
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.9082
+    }
+  },
+  {
+    "partition": "structural",
+    "seed": 2,
+    "src": "MNIST",
+    "none": {
+      "A": 0.6119,
+      "B": 0.755,
+      "retain": 0.7694
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.895,
+      "retain": 0.636
+    },
+    "pruneB": {
+      "A": 0.7694,
+      "B": 0.0,
+      "retain": 0.9036
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.9114
+    }
+  },
+  {
+    "partition": "structural",
+    "seed": 3,
+    "src": "MNIST",
+    "none": {
+      "A": 0.9751,
+      "B": 0.6988,
+      "retain": 0.414
+    },
+    "pruneA": {
+      "A": 0.0,
+      "B": 0.52,
+      "retain": 0.7155
+    },
+    "pruneB": {
+      "A": 0.9751,
+      "B": 0.0,
+      "retain": 0.7487
+    },
+    "both": {
+      "A": 0.0,
+      "B": 0.0,
+      "retain": 0.9216
+    }
+  }
+]

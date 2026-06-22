@@ -1,0 +1,7 @@
+  done random seed0  (5s)
+  done random seed1  (74s)
+  done random seed2  (174s)
+  done structural seed0  (183s)
+  done structural seed1  (187s)
+  done structural seed2  (191s)
+wrote results.json, 36 runs, 191s

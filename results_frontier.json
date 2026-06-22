@@ -1,0 +1,202 @@
+[
+  {
+    "partition": "random",
+    "p_see": 0.0,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9657,
+    "retain_pre": 0.0515,
+    "forget_pruned": 0.9193,
+    "retain_pruned": 0.9029
+  },
+  {
+    "partition": "random",
+    "p_see": 0.0,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.971,
+    "retain_pre": 0.1079,
+    "forget_pruned": 0.9073,
+    "retain_pruned": 0.9129
+  },
+  {
+    "partition": "random",
+    "p_see": 0.25,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9425,
+    "retain_pre": 0.7156,
+    "forget_pruned": 0.777,
+    "retain_pruned": 0.9227
+  },
+  {
+    "partition": "random",
+    "p_see": 0.25,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9566,
+    "retain_pre": 0.7479,
+    "forget_pruned": 0.8156,
+    "retain_pruned": 0.9087
+  },
+  {
+    "partition": "random",
+    "p_see": 0.5,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9526,
+    "retain_pre": 0.6858,
+    "forget_pruned": 0.7841,
+    "retain_pruned": 0.9029
+  },
+  {
+    "partition": "random",
+    "p_see": 0.5,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9614,
+    "retain_pre": 0.7635,
+    "forget_pruned": 0.7346,
+    "retain_pruned": 0.9098
+  },
+  {
+    "partition": "random",
+    "p_see": 0.75,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9465,
+    "retain_pre": 0.8008,
+    "forget_pruned": 0.4067,
+    "retain_pruned": 0.9068
+  },
+  {
+    "partition": "random",
+    "p_see": 0.75,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9604,
+    "retain_pre": 0.8102,
+    "forget_pruned": 0.3658,
+    "retain_pruned": 0.9108
+  },
+  {
+    "partition": "random",
+    "p_see": 1.0,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9324,
+    "retain_pre": 0.8811,
+    "forget_pruned": 0.0,
+    "retain_pruned": 0.3687
+  },
+  {
+    "partition": "random",
+    "p_see": 1.0,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.944,
+    "retain_pre": 0.8734,
+    "forget_pruned": 0.0,
+    "retain_pruned": 0.2293
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.0,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9657,
+    "retain_pre": 0.0297,
+    "forget_pruned": 0.9112,
+    "retain_pruned": 0.8989
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.0,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9701,
+    "retain_pre": 0.1473,
+    "forget_pruned": 0.9054,
+    "retain_pruned": 0.9056
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.25,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9566,
+    "retain_pre": 0.7572,
+    "forget_pruned": 0.885,
+    "retain_pruned": 0.9197
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.25,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9527,
+    "retain_pre": 0.8195,
+    "forget_pruned": 0.8938,
+    "retain_pruned": 0.9139
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.5,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9506,
+    "retain_pre": 0.8276,
+    "forget_pruned": 0.8971,
+    "retain_pruned": 0.9158
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.5,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9421,
+    "retain_pre": 0.8817,
+    "forget_pruned": 0.888,
+    "retain_pruned": 0.9098
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.75,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.9405,
+    "retain_pre": 0.8573,
+    "forget_pruned": 0.8234,
+    "retain_pruned": 0.9267
+  },
+  {
+    "partition": "structural",
+    "p_see": 0.75,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9373,
+    "retain_pre": 0.9004,
+    "forget_pruned": 0.8398,
+    "retain_pruned": 0.916
+  },
+  {
+    "partition": "structural",
+    "p_see": 1.0,
+    "seed": 0,
+    "mislabel": 0.5,
+    "forget_pre": 0.891,
+    "retain_pre": 0.9009,
+    "forget_pruned": 0.0,
+    "retain_pruned": 0.7175
+  },
+  {
+    "partition": "structural",
+    "p_see": 1.0,
+    "seed": 1,
+    "mislabel": 0.5,
+    "forget_pre": 0.9015,
+    "retain_pre": 0.7832,
+    "forget_pruned": 0.0,
+    "retain_pruned": 0.2002
+  }
+]
